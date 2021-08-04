@@ -31,4 +31,4 @@ Copyright (c) 2021 Benjamin Wilson
 
 ## Contact Information
 
-[Email](benjaminw1030@gmail.com)
+<benjaminw1030@gmail.com>
